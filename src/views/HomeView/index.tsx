@@ -27,7 +27,7 @@ export const HomeView = React.memo(function HomeView() {
         </ul>
         <h2 className="mb-2 text-2xl font-semibold">参加方法</h2>
         <p className="mb-4 text-lg">
-          参加希望の方は、<a href="#" className="text-blue-500 underline">参加申込フォーム</a>にご記入ください。締切は[日付]です。
+          その場ですぐに参加可能です！
         </p>
         <h2 className="mb-2 text-2xl font-semibold">賞品</h2>
         <p className="mb-4 text-lg">
